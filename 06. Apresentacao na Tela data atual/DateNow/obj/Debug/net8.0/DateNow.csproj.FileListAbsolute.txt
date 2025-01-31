@@ -1,0 +1,14 @@
+C:\Users\thhia\Documents\Desenvolvimento Web\RocketSeat\C#\Desafios\Primeiro Desafio\06. Apresentacao na Tela data atual\DateNow\bin\Debug\net8.0\DateNow.exe
+C:\Users\thhia\Documents\Desenvolvimento Web\RocketSeat\C#\Desafios\Primeiro Desafio\06. Apresentacao na Tela data atual\DateNow\bin\Debug\net8.0\DateNow.deps.json
+C:\Users\thhia\Documents\Desenvolvimento Web\RocketSeat\C#\Desafios\Primeiro Desafio\06. Apresentacao na Tela data atual\DateNow\bin\Debug\net8.0\DateNow.runtimeconfig.json
+C:\Users\thhia\Documents\Desenvolvimento Web\RocketSeat\C#\Desafios\Primeiro Desafio\06. Apresentacao na Tela data atual\DateNow\bin\Debug\net8.0\DateNow.dll
+C:\Users\thhia\Documents\Desenvolvimento Web\RocketSeat\C#\Desafios\Primeiro Desafio\06. Apresentacao na Tela data atual\DateNow\bin\Debug\net8.0\DateNow.pdb
+C:\Users\thhia\Documents\Desenvolvimento Web\RocketSeat\C#\Desafios\Primeiro Desafio\06. Apresentacao na Tela data atual\DateNow\obj\Debug\net8.0\DateNow.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\thhia\Documents\Desenvolvimento Web\RocketSeat\C#\Desafios\Primeiro Desafio\06. Apresentacao na Tela data atual\DateNow\obj\Debug\net8.0\DateNow.AssemblyInfoInputs.cache
+C:\Users\thhia\Documents\Desenvolvimento Web\RocketSeat\C#\Desafios\Primeiro Desafio\06. Apresentacao na Tela data atual\DateNow\obj\Debug\net8.0\DateNow.AssemblyInfo.cs
+C:\Users\thhia\Documents\Desenvolvimento Web\RocketSeat\C#\Desafios\Primeiro Desafio\06. Apresentacao na Tela data atual\DateNow\obj\Debug\net8.0\DateNow.csproj.CoreCompileInputs.cache
+C:\Users\thhia\Documents\Desenvolvimento Web\RocketSeat\C#\Desafios\Primeiro Desafio\06. Apresentacao na Tela data atual\DateNow\obj\Debug\net8.0\DateNow.dll
+C:\Users\thhia\Documents\Desenvolvimento Web\RocketSeat\C#\Desafios\Primeiro Desafio\06. Apresentacao na Tela data atual\DateNow\obj\Debug\net8.0\refint\DateNow.dll
+C:\Users\thhia\Documents\Desenvolvimento Web\RocketSeat\C#\Desafios\Primeiro Desafio\06. Apresentacao na Tela data atual\DateNow\obj\Debug\net8.0\DateNow.pdb
+C:\Users\thhia\Documents\Desenvolvimento Web\RocketSeat\C#\Desafios\Primeiro Desafio\06. Apresentacao na Tela data atual\DateNow\obj\Debug\net8.0\DateNow.genruntimeconfig.cache
+C:\Users\thhia\Documents\Desenvolvimento Web\RocketSeat\C#\Desafios\Primeiro Desafio\06. Apresentacao na Tela data atual\DateNow\obj\Debug\net8.0\ref\DateNow.dll
