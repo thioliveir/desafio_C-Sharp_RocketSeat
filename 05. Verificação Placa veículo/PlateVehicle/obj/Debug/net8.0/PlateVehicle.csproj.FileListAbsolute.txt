@@ -1,0 +1,14 @@
+C:\Users\thhia\Documents\Desenvolvimento Web\RocketSeat\C#\Desafios\Primeiro Desafio\05. Verificação Placa veículo\PlateVehicle\bin\Debug\net8.0\PlateVehicle.exe
+C:\Users\thhia\Documents\Desenvolvimento Web\RocketSeat\C#\Desafios\Primeiro Desafio\05. Verificação Placa veículo\PlateVehicle\bin\Debug\net8.0\PlateVehicle.deps.json
+C:\Users\thhia\Documents\Desenvolvimento Web\RocketSeat\C#\Desafios\Primeiro Desafio\05. Verificação Placa veículo\PlateVehicle\bin\Debug\net8.0\PlateVehicle.runtimeconfig.json
+C:\Users\thhia\Documents\Desenvolvimento Web\RocketSeat\C#\Desafios\Primeiro Desafio\05. Verificação Placa veículo\PlateVehicle\bin\Debug\net8.0\PlateVehicle.dll
+C:\Users\thhia\Documents\Desenvolvimento Web\RocketSeat\C#\Desafios\Primeiro Desafio\05. Verificação Placa veículo\PlateVehicle\bin\Debug\net8.0\PlateVehicle.pdb
+C:\Users\thhia\Documents\Desenvolvimento Web\RocketSeat\C#\Desafios\Primeiro Desafio\05. Verificação Placa veículo\PlateVehicle\obj\Debug\net8.0\PlateVehicle.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\thhia\Documents\Desenvolvimento Web\RocketSeat\C#\Desafios\Primeiro Desafio\05. Verificação Placa veículo\PlateVehicle\obj\Debug\net8.0\PlateVehicle.AssemblyInfoInputs.cache
+C:\Users\thhia\Documents\Desenvolvimento Web\RocketSeat\C#\Desafios\Primeiro Desafio\05. Verificação Placa veículo\PlateVehicle\obj\Debug\net8.0\PlateVehicle.AssemblyInfo.cs
+C:\Users\thhia\Documents\Desenvolvimento Web\RocketSeat\C#\Desafios\Primeiro Desafio\05. Verificação Placa veículo\PlateVehicle\obj\Debug\net8.0\PlateVehicle.csproj.CoreCompileInputs.cache
+C:\Users\thhia\Documents\Desenvolvimento Web\RocketSeat\C#\Desafios\Primeiro Desafio\05. Verificação Placa veículo\PlateVehicle\obj\Debug\net8.0\PlateVehicle.dll
+C:\Users\thhia\Documents\Desenvolvimento Web\RocketSeat\C#\Desafios\Primeiro Desafio\05. Verificação Placa veículo\PlateVehicle\obj\Debug\net8.0\refint\PlateVehicle.dll
+C:\Users\thhia\Documents\Desenvolvimento Web\RocketSeat\C#\Desafios\Primeiro Desafio\05. Verificação Placa veículo\PlateVehicle\obj\Debug\net8.0\PlateVehicle.pdb
+C:\Users\thhia\Documents\Desenvolvimento Web\RocketSeat\C#\Desafios\Primeiro Desafio\05. Verificação Placa veículo\PlateVehicle\obj\Debug\net8.0\PlateVehicle.genruntimeconfig.cache
+C:\Users\thhia\Documents\Desenvolvimento Web\RocketSeat\C#\Desafios\Primeiro Desafio\05. Verificação Placa veículo\PlateVehicle\obj\Debug\net8.0\ref\PlateVehicle.dll
