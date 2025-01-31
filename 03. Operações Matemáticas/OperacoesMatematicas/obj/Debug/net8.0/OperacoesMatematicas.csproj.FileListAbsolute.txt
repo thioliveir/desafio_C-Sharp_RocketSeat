@@ -1,0 +1,14 @@
+C:\Users\thhia\Documents\Desenvolvimento Web\RocketSeat\C#\Desafios\Primeiro Desafio\03. Operações Matemáticas\OperacoesMatematicas\bin\Debug\net8.0\OperacoesMatematicas.exe
+C:\Users\thhia\Documents\Desenvolvimento Web\RocketSeat\C#\Desafios\Primeiro Desafio\03. Operações Matemáticas\OperacoesMatematicas\bin\Debug\net8.0\OperacoesMatematicas.deps.json
+C:\Users\thhia\Documents\Desenvolvimento Web\RocketSeat\C#\Desafios\Primeiro Desafio\03. Operações Matemáticas\OperacoesMatematicas\bin\Debug\net8.0\OperacoesMatematicas.runtimeconfig.json
+C:\Users\thhia\Documents\Desenvolvimento Web\RocketSeat\C#\Desafios\Primeiro Desafio\03. Operações Matemáticas\OperacoesMatematicas\bin\Debug\net8.0\OperacoesMatematicas.dll
+C:\Users\thhia\Documents\Desenvolvimento Web\RocketSeat\C#\Desafios\Primeiro Desafio\03. Operações Matemáticas\OperacoesMatematicas\bin\Debug\net8.0\OperacoesMatematicas.pdb
+C:\Users\thhia\Documents\Desenvolvimento Web\RocketSeat\C#\Desafios\Primeiro Desafio\03. Operações Matemáticas\OperacoesMatematicas\obj\Debug\net8.0\OperacoesMatematicas.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\thhia\Documents\Desenvolvimento Web\RocketSeat\C#\Desafios\Primeiro Desafio\03. Operações Matemáticas\OperacoesMatematicas\obj\Debug\net8.0\OperacoesMatematicas.AssemblyInfoInputs.cache
+C:\Users\thhia\Documents\Desenvolvimento Web\RocketSeat\C#\Desafios\Primeiro Desafio\03. Operações Matemáticas\OperacoesMatematicas\obj\Debug\net8.0\OperacoesMatematicas.AssemblyInfo.cs
+C:\Users\thhia\Documents\Desenvolvimento Web\RocketSeat\C#\Desafios\Primeiro Desafio\03. Operações Matemáticas\OperacoesMatematicas\obj\Debug\net8.0\OperacoesMatematicas.csproj.CoreCompileInputs.cache
+C:\Users\thhia\Documents\Desenvolvimento Web\RocketSeat\C#\Desafios\Primeiro Desafio\03. Operações Matemáticas\OperacoesMatematicas\obj\Debug\net8.0\OperacoesMatematicas.dll
+C:\Users\thhia\Documents\Desenvolvimento Web\RocketSeat\C#\Desafios\Primeiro Desafio\03. Operações Matemáticas\OperacoesMatematicas\obj\Debug\net8.0\refint\OperacoesMatematicas.dll
+C:\Users\thhia\Documents\Desenvolvimento Web\RocketSeat\C#\Desafios\Primeiro Desafio\03. Operações Matemáticas\OperacoesMatematicas\obj\Debug\net8.0\OperacoesMatematicas.pdb
+C:\Users\thhia\Documents\Desenvolvimento Web\RocketSeat\C#\Desafios\Primeiro Desafio\03. Operações Matemáticas\OperacoesMatematicas\obj\Debug\net8.0\OperacoesMatematicas.genruntimeconfig.cache
+C:\Users\thhia\Documents\Desenvolvimento Web\RocketSeat\C#\Desafios\Primeiro Desafio\03. Operações Matemáticas\OperacoesMatematicas\obj\Debug\net8.0\ref\OperacoesMatematicas.dll
