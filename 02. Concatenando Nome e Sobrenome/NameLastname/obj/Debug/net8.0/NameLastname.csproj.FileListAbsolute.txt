@@ -1,0 +1,14 @@
+C:\Users\thhia\Documents\Desenvolvimento Web\RocketSeat\C#\Desafios\Primeiro Desafio\02. Concatenando Nome e Sobrenome\NameLastname\bin\Debug\net8.0\NameLastname.exe
+C:\Users\thhia\Documents\Desenvolvimento Web\RocketSeat\C#\Desafios\Primeiro Desafio\02. Concatenando Nome e Sobrenome\NameLastname\bin\Debug\net8.0\NameLastname.deps.json
+C:\Users\thhia\Documents\Desenvolvimento Web\RocketSeat\C#\Desafios\Primeiro Desafio\02. Concatenando Nome e Sobrenome\NameLastname\bin\Debug\net8.0\NameLastname.runtimeconfig.json
+C:\Users\thhia\Documents\Desenvolvimento Web\RocketSeat\C#\Desafios\Primeiro Desafio\02. Concatenando Nome e Sobrenome\NameLastname\bin\Debug\net8.0\NameLastname.dll
+C:\Users\thhia\Documents\Desenvolvimento Web\RocketSeat\C#\Desafios\Primeiro Desafio\02. Concatenando Nome e Sobrenome\NameLastname\bin\Debug\net8.0\NameLastname.pdb
+C:\Users\thhia\Documents\Desenvolvimento Web\RocketSeat\C#\Desafios\Primeiro Desafio\02. Concatenando Nome e Sobrenome\NameLastname\obj\Debug\net8.0\NameLastname.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\thhia\Documents\Desenvolvimento Web\RocketSeat\C#\Desafios\Primeiro Desafio\02. Concatenando Nome e Sobrenome\NameLastname\obj\Debug\net8.0\NameLastname.AssemblyInfoInputs.cache
+C:\Users\thhia\Documents\Desenvolvimento Web\RocketSeat\C#\Desafios\Primeiro Desafio\02. Concatenando Nome e Sobrenome\NameLastname\obj\Debug\net8.0\NameLastname.AssemblyInfo.cs
+C:\Users\thhia\Documents\Desenvolvimento Web\RocketSeat\C#\Desafios\Primeiro Desafio\02. Concatenando Nome e Sobrenome\NameLastname\obj\Debug\net8.0\NameLastname.csproj.CoreCompileInputs.cache
+C:\Users\thhia\Documents\Desenvolvimento Web\RocketSeat\C#\Desafios\Primeiro Desafio\02. Concatenando Nome e Sobrenome\NameLastname\obj\Debug\net8.0\NameLastname.dll
+C:\Users\thhia\Documents\Desenvolvimento Web\RocketSeat\C#\Desafios\Primeiro Desafio\02. Concatenando Nome e Sobrenome\NameLastname\obj\Debug\net8.0\refint\NameLastname.dll
+C:\Users\thhia\Documents\Desenvolvimento Web\RocketSeat\C#\Desafios\Primeiro Desafio\02. Concatenando Nome e Sobrenome\NameLastname\obj\Debug\net8.0\NameLastname.pdb
+C:\Users\thhia\Documents\Desenvolvimento Web\RocketSeat\C#\Desafios\Primeiro Desafio\02. Concatenando Nome e Sobrenome\NameLastname\obj\Debug\net8.0\NameLastname.genruntimeconfig.cache
+C:\Users\thhia\Documents\Desenvolvimento Web\RocketSeat\C#\Desafios\Primeiro Desafio\02. Concatenando Nome e Sobrenome\NameLastname\obj\Debug\net8.0\ref\NameLastname.dll
