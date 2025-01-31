@@ -1,0 +1,14 @@
+C:\Users\thhia\Documents\Desenvolvimento Web\RocketSeat\C#\Desafios\Primeiro Desafio\04. Numeros Caracteres\CaracterNumber\bin\Debug\net8.0\CaracterNumber.exe
+C:\Users\thhia\Documents\Desenvolvimento Web\RocketSeat\C#\Desafios\Primeiro Desafio\04. Numeros Caracteres\CaracterNumber\bin\Debug\net8.0\CaracterNumber.deps.json
+C:\Users\thhia\Documents\Desenvolvimento Web\RocketSeat\C#\Desafios\Primeiro Desafio\04. Numeros Caracteres\CaracterNumber\bin\Debug\net8.0\CaracterNumber.runtimeconfig.json
+C:\Users\thhia\Documents\Desenvolvimento Web\RocketSeat\C#\Desafios\Primeiro Desafio\04. Numeros Caracteres\CaracterNumber\bin\Debug\net8.0\CaracterNumber.dll
+C:\Users\thhia\Documents\Desenvolvimento Web\RocketSeat\C#\Desafios\Primeiro Desafio\04. Numeros Caracteres\CaracterNumber\bin\Debug\net8.0\CaracterNumber.pdb
+C:\Users\thhia\Documents\Desenvolvimento Web\RocketSeat\C#\Desafios\Primeiro Desafio\04. Numeros Caracteres\CaracterNumber\obj\Debug\net8.0\CaracterNumber.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\thhia\Documents\Desenvolvimento Web\RocketSeat\C#\Desafios\Primeiro Desafio\04. Numeros Caracteres\CaracterNumber\obj\Debug\net8.0\CaracterNumber.AssemblyInfoInputs.cache
+C:\Users\thhia\Documents\Desenvolvimento Web\RocketSeat\C#\Desafios\Primeiro Desafio\04. Numeros Caracteres\CaracterNumber\obj\Debug\net8.0\CaracterNumber.AssemblyInfo.cs
+C:\Users\thhia\Documents\Desenvolvimento Web\RocketSeat\C#\Desafios\Primeiro Desafio\04. Numeros Caracteres\CaracterNumber\obj\Debug\net8.0\CaracterNumber.csproj.CoreCompileInputs.cache
+C:\Users\thhia\Documents\Desenvolvimento Web\RocketSeat\C#\Desafios\Primeiro Desafio\04. Numeros Caracteres\CaracterNumber\obj\Debug\net8.0\CaracterNumber.dll
+C:\Users\thhia\Documents\Desenvolvimento Web\RocketSeat\C#\Desafios\Primeiro Desafio\04. Numeros Caracteres\CaracterNumber\obj\Debug\net8.0\refint\CaracterNumber.dll
+C:\Users\thhia\Documents\Desenvolvimento Web\RocketSeat\C#\Desafios\Primeiro Desafio\04. Numeros Caracteres\CaracterNumber\obj\Debug\net8.0\CaracterNumber.pdb
+C:\Users\thhia\Documents\Desenvolvimento Web\RocketSeat\C#\Desafios\Primeiro Desafio\04. Numeros Caracteres\CaracterNumber\obj\Debug\net8.0\CaracterNumber.genruntimeconfig.cache
+C:\Users\thhia\Documents\Desenvolvimento Web\RocketSeat\C#\Desafios\Primeiro Desafio\04. Numeros Caracteres\CaracterNumber\obj\Debug\net8.0\ref\CaracterNumber.dll
