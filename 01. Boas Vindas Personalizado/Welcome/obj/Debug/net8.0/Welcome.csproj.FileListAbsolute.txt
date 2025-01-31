@@ -1,0 +1,14 @@
+C:\Users\thhia\Documents\Desenvolvimento Web\RocketSeat\C#\Desafios\Primeiro Desafio\01. Boas Vindas Personalizado\Welcome\bin\Debug\net8.0\Welcome.exe
+C:\Users\thhia\Documents\Desenvolvimento Web\RocketSeat\C#\Desafios\Primeiro Desafio\01. Boas Vindas Personalizado\Welcome\bin\Debug\net8.0\Welcome.deps.json
+C:\Users\thhia\Documents\Desenvolvimento Web\RocketSeat\C#\Desafios\Primeiro Desafio\01. Boas Vindas Personalizado\Welcome\bin\Debug\net8.0\Welcome.runtimeconfig.json
+C:\Users\thhia\Documents\Desenvolvimento Web\RocketSeat\C#\Desafios\Primeiro Desafio\01. Boas Vindas Personalizado\Welcome\bin\Debug\net8.0\Welcome.dll
+C:\Users\thhia\Documents\Desenvolvimento Web\RocketSeat\C#\Desafios\Primeiro Desafio\01. Boas Vindas Personalizado\Welcome\bin\Debug\net8.0\Welcome.pdb
+C:\Users\thhia\Documents\Desenvolvimento Web\RocketSeat\C#\Desafios\Primeiro Desafio\01. Boas Vindas Personalizado\Welcome\obj\Debug\net8.0\Welcome.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\thhia\Documents\Desenvolvimento Web\RocketSeat\C#\Desafios\Primeiro Desafio\01. Boas Vindas Personalizado\Welcome\obj\Debug\net8.0\Welcome.AssemblyInfoInputs.cache
+C:\Users\thhia\Documents\Desenvolvimento Web\RocketSeat\C#\Desafios\Primeiro Desafio\01. Boas Vindas Personalizado\Welcome\obj\Debug\net8.0\Welcome.AssemblyInfo.cs
+C:\Users\thhia\Documents\Desenvolvimento Web\RocketSeat\C#\Desafios\Primeiro Desafio\01. Boas Vindas Personalizado\Welcome\obj\Debug\net8.0\Welcome.csproj.CoreCompileInputs.cache
+C:\Users\thhia\Documents\Desenvolvimento Web\RocketSeat\C#\Desafios\Primeiro Desafio\01. Boas Vindas Personalizado\Welcome\obj\Debug\net8.0\Welcome.dll
+C:\Users\thhia\Documents\Desenvolvimento Web\RocketSeat\C#\Desafios\Primeiro Desafio\01. Boas Vindas Personalizado\Welcome\obj\Debug\net8.0\refint\Welcome.dll
+C:\Users\thhia\Documents\Desenvolvimento Web\RocketSeat\C#\Desafios\Primeiro Desafio\01. Boas Vindas Personalizado\Welcome\obj\Debug\net8.0\Welcome.pdb
+C:\Users\thhia\Documents\Desenvolvimento Web\RocketSeat\C#\Desafios\Primeiro Desafio\01. Boas Vindas Personalizado\Welcome\obj\Debug\net8.0\Welcome.genruntimeconfig.cache
+C:\Users\thhia\Documents\Desenvolvimento Web\RocketSeat\C#\Desafios\Primeiro Desafio\01. Boas Vindas Personalizado\Welcome\obj\Debug\net8.0\ref\Welcome.dll
